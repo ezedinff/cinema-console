@@ -1,0 +1,8 @@
+type: framework
+content:
+- Arrangement
+- Sold
+- Tickets
+- Menu, please
+- Errors
+current_task: 4
